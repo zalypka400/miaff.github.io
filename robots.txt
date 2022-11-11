@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /css/img/
+Sitemap: https://zalypka400.github.io/5259533_7.xml
+Sitemap: https://zalypka400.github.io/sitemap.xml
+Sitemap: https://zalypka400.github.io/index.html
