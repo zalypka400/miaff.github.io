@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://zalypka400.github.io/</loc>
+	<lastmod>2022-11-14T07:19:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zalypka400.github.io/123.html</loc>
+	<lastmod>2022-11-14T07:19:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zalypka400.github.io/index.html</loc>
+	<lastmod>2022-11-14T07:19:30+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/team1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/team2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/team3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/team4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl5.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl6.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl7.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl8.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl9.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/gl10.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://zalypka400.github.io/img/fo-logo.png</image:loc>
+	</image:image>
+</url>
+</urlset>
